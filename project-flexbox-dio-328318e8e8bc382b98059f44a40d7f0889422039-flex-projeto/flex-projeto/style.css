@@ -24,7 +24,7 @@ div img{
     max-width: 992px;
     margin: auto;
     width: 100%;
-    min-width: 320px;
+   
 }
 
 header{
@@ -130,7 +130,7 @@ header .menu{
 #servicos h2{
     color: #fff;
     font-size: 32px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .list-servicos{
@@ -240,6 +240,7 @@ header .menu{
 
 footer{
     background-color: #122A57;
+    color: #fff;
     height: 70px;
     display: flex;
     align-items: center;
